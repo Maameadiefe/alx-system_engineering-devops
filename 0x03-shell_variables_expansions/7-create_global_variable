@@ -1,2 +1,2 @@
 #!/bin/bash
-exort BEST= "School"
+exort BEST=School
